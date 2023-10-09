@@ -1,0 +1,34 @@
+.capa {
+    background-image: url(../../../public/assets/imagens/capa.png);
+    background-size: cover;
+    display: flex;
+    height: 80%;
+    align-items: center;
+    padding-left: 20%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+
+}
+.txt {
+    font-family: 'Anybody', cursive;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    color: white;
+    max-width: 450px;
+    height: 80%;
+}
+
+h1 {
+    margin: 0;
+}
+.txt p {
+    font-size: 36px;
+    text-align: left;
+}
+
+h1 {
+    text-align: left;
+    font-size: 60px;
+}

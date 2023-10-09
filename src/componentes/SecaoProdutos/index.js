@@ -1,9 +1,10 @@
 import React from "react";
+import './style.css'
 
 export default function SecaoProdutos() {
     return (
         <section id="produtos" className="produtos">
-            <div className="limita-prod">
+            <div className="limita-secao">
                 <h2>NOSSOS PRODUTOS</h2>
                 <p>Trabalhamos com óculos de grau, óculos de sol, lentes transition nos modelos masculino, feminino e infantil.</p>
                 <p>Todos os nossos preços são acessíveis e contam com a melhor qualidade do mercado.</p>

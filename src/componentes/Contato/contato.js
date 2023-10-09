@@ -1,9 +1,10 @@
 import React from "react";
+import './style.css'
 
 export default function Contato() {
     return (
         <section id="contato" className="contato">
-            <div className="limita-contato">
+            <div className="limita-secao">
                 <h4>FALE CONOSCO</h4>
                 <p>Não perca tempo, venha conhecer uma de nossas lojas ou entre em contato através de nossas redes sociais ou da central de atendimento.</p>
                 <div className="lista-contato">
