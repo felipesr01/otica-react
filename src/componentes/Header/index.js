@@ -7,6 +7,7 @@ export default function Header() {
         <header>
             <div className="conteudo">
                 <img className="img" src="assets/imagens/logo.png" alt=""/>
+                <div className="linha"></div>
                 <div className="links">
                     <a href="#produtos">PRODUTOS</a>
                     <a href="#sobre">SOBRE</a>
