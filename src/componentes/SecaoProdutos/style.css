@@ -67,3 +67,31 @@ ul {
 li {
     font-size: 20px;
 }
+
+@media screen and (max-width:550px) {
+    h2 {
+        font-size: 30px;
+    }
+
+    section p {
+        font-size: 15px;
+    }
+
+    li {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    h2 {
+        font-size: 30px;
+    }
+
+    section p {
+        font-size: 15px;
+    }
+
+    li {
+        font-size: 15px;
+    }
+}
