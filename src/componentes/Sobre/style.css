@@ -1,12 +1,12 @@
 .sobre {
     background-color: #f6f6f6;
-    box-sizing: border-box;
 }
 
 .fotos-sobre {
     display: flex;
     flex-wrap: wrap;
     border: 1px solid #D2D3D7;
+    box-sizing: border-box;
 }
 
 .sobre-foto {
