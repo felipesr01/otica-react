@@ -1,5 +1,6 @@
 .sobre {
     background-color: #f6f6f6;
+    box-sizing: border-box;
 }
 
 .fotos-sobre {
@@ -10,7 +11,7 @@
 
 .sobre-foto {
     width: 50%;
-    border: 1px solid #D2D3D7 inset;
+    border: 1px solid #D2D3D7;
 }
 
 .sobre-foto > img {
@@ -19,7 +20,7 @@
 }
 
 .sobre-txt {
-    border: 1px solid #D2D3D7 inset;
+    border: 1px solid #D2D3D7;
     width: 50%;
     display: flex;
     flex-direction: column;
