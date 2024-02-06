@@ -20,7 +20,8 @@
 }
 
 .sobre-txt {
-    width: 49%;
+    box-sizing: border-box;
+    width: 50%;
     display: flex;
     flex-direction: column;
     justify-content: center;
