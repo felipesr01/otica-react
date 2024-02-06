@@ -10,6 +10,7 @@
 }
 
 .sobre-foto {
+    box-sizing: border-box;
     width: 50%;
     border: 1px solid #D2D3D7;
 }
